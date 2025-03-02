@@ -5,7 +5,6 @@ using System.Numerics;
 class Program
 {
     static List<Particle> particles = new();
-    static Random random = new Random();
 
     static void Main()
     {

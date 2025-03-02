@@ -1,9 +1,16 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35723.152 d17.13
+VisualStudioVersion = 17.13.35723.152
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaylibSandbox", "RaylibSandbox\RaylibSandbox.csproj", "{3B1A7C52-0673-430D-B750-B23970388488}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebParticleSystem", "WebParticleSystem\WebParticleSystem.csproj", "{29714679-0733-58F8-5F8B-74A6F97D5F23}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +22,10 @@ Global
 		{3B1A7C52-0673-430D-B750-B23970388488}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B1A7C52-0673-430D-B750-B23970388488}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B1A7C52-0673-430D-B750-B23970388488}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29714679-0733-58F8-5F8B-74A6F97D5F23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29714679-0733-58F8-5F8B-74A6F97D5F23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29714679-0733-58F8-5F8B-74A6F97D5F23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29714679-0733-58F8-5F8B-74A6F97D5F23}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
